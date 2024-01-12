@@ -15,7 +15,7 @@
     "projectelo.text.matchtype.casual": "Modo Casual",
     "projectelo.text.matchtype.casual.description": "Juega de forma casual contra otros jugadores.\nEste modo no afecta a tu elo.",
     "projectelo.text.matchtype.ranked": "Modo Clasificatorio",
-    "projectelo.text.matchtype.ranked.description": "Compite contra jugadores de nivel similar,\en la misma semilla al mismo tiempo.\n\nConsigue Elo\ncompitiendo contra otros jugadores con el mismo Elo.",
+    "projectelo.text.matchtype.ranked.description": "Compite contra jugadores de nivel similar,\nen la misma semilla al mismo tiempo.\n\nConsigue Elo\ncompitiendo contra otros jugadores con el mismo Elo.",
     "projectelo.text.matchtype.private": "Sala Privada",
     "projectelo.text.matchtype.event": "Event Mode",
     "projectelo.text.matchtype.event.description": "¡Compite conta otros jugadores con reglas unicas!\nEste modo no afecta a tu Elo.",
